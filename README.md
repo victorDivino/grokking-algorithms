@@ -9,7 +9,7 @@ The goal of this repository is to provide clear and practical implementations of
 The repository is organized as follows:
 
 - [x] [Chapter 01 - Binary Search](./GrokkingAlgorithms/GrokkingAlgorithms.BinarySearch/)
-- [ ] [Chapter 02 - Selection sort](./GrokkingAlgorithms/)
+- [x] [Chapter 02 - Selection sort](./GrokkingAlgorithms/GrokkingAlgorithms.SelectionSort/)
 - [ ] [Chapter 03 - Recursion](./GrokkingAlgorithms/)
 - [ ] [Chapter 04 - Quicksort](./GrokkingAlgorithms/)
 - [ ] [Chapter 05 - Hash tables](./GrokkingAlgorithms/)

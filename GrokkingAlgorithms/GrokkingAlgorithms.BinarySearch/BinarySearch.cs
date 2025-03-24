@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace GrokkingAlgorithms.BinarySearch;
+﻿namespace GrokkingAlgorithms.BinarySearch;
 
 public static class BinarySearch
 {

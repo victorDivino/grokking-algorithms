@@ -12,6 +12,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrokkingAlgorithms.BinarySe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Binary Search", "01 - Binary Search", "{D713B314-FA56-4FB6-95CB-D17DBAAC5FEB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Selection Sort", "02 - Selection Sort", "{49735C72-3C7C-46C4-B057-A2E97CA6EE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrokkingAlgorithms.SelectionSort", "GrokkingAlgorithms.SelectionSort\GrokkingAlgorithms.SelectionSort.csproj", "{92819B83-D119-4677-B064-06D28A855728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrokkingAlgorithms.SelectionSort.Tests", "Tests\GrokkingAlgorithms.SelectionSort.Tests\GrokkingAlgorithms.SelectionSort.Tests.csproj", "{9916B3A2-7892-44F1-97C4-D399318DE100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +32,14 @@ Global
 		{E0B9EB7F-4857-4FF7-85ED-B961DDD8EDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0B9EB7F-4857-4FF7-85ED-B961DDD8EDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0B9EB7F-4857-4FF7-85ED-B961DDD8EDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92819B83-D119-4677-B064-06D28A855728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92819B83-D119-4677-B064-06D28A855728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92819B83-D119-4677-B064-06D28A855728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92819B83-D119-4677-B064-06D28A855728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9916B3A2-7892-44F1-97C4-D399318DE100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9916B3A2-7892-44F1-97C4-D399318DE100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9916B3A2-7892-44F1-97C4-D399318DE100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9916B3A2-7892-44F1-97C4-D399318DE100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,5 +47,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A1D16B78-E5E4-48D1-BBD7-898668227707} = {D713B314-FA56-4FB6-95CB-D17DBAAC5FEB}
 		{E0B9EB7F-4857-4FF7-85ED-B961DDD8EDB4} = {D713B314-FA56-4FB6-95CB-D17DBAAC5FEB}
+		{92819B83-D119-4677-B064-06D28A855728} = {49735C72-3C7C-46C4-B057-A2E97CA6EE00}
+		{9916B3A2-7892-44F1-97C4-D399318DE100} = {49735C72-3C7C-46C4-B057-A2E97CA6EE00}
 	EndGlobalSection
 EndGlobal
